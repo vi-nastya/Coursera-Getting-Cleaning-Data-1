@@ -1,6 +1,11 @@
+---
+output: pdf_document
+---
 ##Data dictionary.
 
 *subject*
+
+Values 1..30 correspond to numbers of participants of the experiment
 
 *activity* 
   
